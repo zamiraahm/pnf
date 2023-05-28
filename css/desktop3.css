@@ -1,0 +1,506 @@
+.desktop-3-child {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 720px);
+    background-color: var(--color-white);
+    width: 1440px;
+    height: 129px;
+  }
+  .logomakr-18flke-13,
+  .logomakr-2xjodi-1-icon3 {
+    position: absolute;
+    top: 48px;
+    left: 76px;
+    width: 289px;
+    height: 49px;
+    cursor: pointer;
+  }
+  .logomakr-2xjodi-1-icon3 {
+    top: 32px;
+    left: 265px;
+    width: 96px;
+    height: 56px;
+    object-fit: cover;
+  }
+  .blog3,
+  .pricing3,
+  .punanfokus6 {
+    position: absolute;
+    line-height: 99%;
+  }
+  .punanfokus6 {
+    top: 34px;
+    left: 16px;
+    font-size: var(--font-size-21xl);
+    font-family: var(--font-montaga);
+    cursor: pointer;
+  }
+  .blog3,
+  .pricing3 {
+    top: 20px;
+    font-size: var(--font-size-11xl);
+  }
+  .pricing3 {
+    left: 748px;
+    cursor: pointer;
+  }
+  .blog3 {
+    left: 885px;
+  }
+  .contact3 {
+    left: 983px;
+    cursor: pointer;
+  }
+  .contact3,
+  .post-a-job4,
+  .sign-in4 {
+    position: absolute;
+    top: 20px;
+    font-size: var(--font-size-11xl);
+    line-height: 99%;
+  }
+  .sign-in4 {
+    left: 1131px;
+    cursor: pointer;
+  }
+  .post-a-job4 {
+    left: 1257px;
+  }
+  .desktop-3-item {
+    position: absolute;
+    bottom: 0;
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 314px;
+  }
+  .blog4 {
+    position: absolute;
+    top: 257px;
+    left: calc(50% - 38px);
+    font-size: var(--font-size-16xl);
+    line-height: 99%;
+    font-weight: 600;
+  }
+  .desktop-3-inner {
+    position: absolute;
+    top: 327px;
+    left: 160px;
+    border-radius: var(--br-4xs);
+    background-color: var(--color-white);
+    width: 1119px;
+    height: 4007px;
+  }
+  .career-development,
+  .career-transitions-how {
+    position: absolute;
+    top: 4149px;
+    left: 212px;
+    line-height: 99%;
+  }
+  .career-development {
+    top: 4191px;
+    left: 210px;
+    font-size: var(--font-size-mid);
+    color: #6d8891;
+  }
+  .are-you-a {
+    margin: 0;
+  }
+  .are-you-a-container {
+    position: absolute;
+    top: 4222px;
+    left: 210px;
+    font-size: var(--font-size-mid);
+    line-height: 99%;
+    color: #8f8f8f;
+  }
+  .most-effective-ways,
+  .remote-work-career {
+    position: absolute;
+    left: 204px;
+    line-height: 99%;
+  }
+  .remote-work-career {
+    top: 3393px;
+    font-size: var(--font-size-mid);
+    color: #3f636f;
+  }
+  .most-effective-ways {
+    top: 3364px;
+  }
+  .career-dvelopment,
+  .challenges-advantages {
+    position: absolute;
+    top: 2579px;
+    left: 210px;
+    line-height: 99%;
+  }
+  .career-dvelopment {
+    top: 2612px;
+    font-size: var(--font-size-mid);
+    color: #587882;
+  }
+  .challenges-1-icon {
+    position: absolute;
+    top: 2377px;
+    left: 210px;
+    width: 643.48px;
+    height: 185px;
+    object-fit: cover;
+  }
+  .remote-work-comes-container,
+  .remote-work-comes-container1 {
+    position: absolute;
+    top: 2243px;
+    left: 210px;
+    font-size: var(--font-size-mini);
+    line-height: 99%;
+    color: #818181;
+  }
+  .remote-work-comes-container1 {
+    top: 1831px;
+    left: 208px;
+    color: #6f6f6f;
+  }
+  .camera-1-icon {
+    position: absolute;
+    top: 372px;
+    left: 210px;
+    border-radius: var(--br-8xs);
+    width: 604px;
+    height: 185px;
+    object-fit: cover;
+  }
+  .desktop-3-child1 {
+    position: absolute;
+    top: 350px;
+    left: 899px;
+    border-radius: var(--br-7xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 342px;
+    height: 44px;
+  }
+  .categories,
+  .search {
+    position: absolute;
+    line-height: 99%;
+  }
+  .search {
+    top: 362px;
+    left: 918px;
+    font-weight: 600;
+    color: #dadbdb;
+  }
+  .categories {
+    top: 439px;
+    left: 910px;
+  }
+  .artificial-intelligence-ai,
+  .artificial-intelligence-ai1 {
+    position: absolute;
+    top: 489px;
+    left: 906px;
+    line-height: 99%;
+    -webkit-text-stroke: 1px rgba(54, 163, 198, 0.4);
+  }
+  .artificial-intelligence-ai1 {
+    top: 610px;
+    left: 215px;
+    font-size: var(--font-size-mid);
+  }
+  .if-youre-a-container {
+    position: absolute;
+    top: 643px;
+    left: 215px;
+    font-size: var(--font-size-mini);
+    line-height: 99%;
+    font-weight: 200;
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #000;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .career-development1 {
+    position: absolute;
+    top: 525px;
+    left: 906px;
+    line-height: 99%;
+    -webkit-text-stroke: 1px rgba(54, 163, 198, 0.4);
+  }
+  .how-technology-is {
+    position: absolute;
+    top: 579px;
+    left: 212px;
+    line-height: 99%;
+    font-weight: 500;
+  }
+  .unnamed-1-icon {
+    position: absolute;
+    top: 739px;
+    left: 205px;
+    width: 609px;
+    height: 185px;
+    object-fit: cover;
+  }
+  .remote-work,
+  .remote-work-in {
+    position: absolute;
+    top: 946px;
+    left: 208px;
+    line-height: 99%;
+  }
+  .remote-work {
+    top: 982px;
+    left: 210px;
+    font-size: var(--font-size-mid);
+    color: var(--color-darkslategray-200);
+  }
+  .remote-work-comes-container2 {
+    position: absolute;
+    top: 1016px;
+    left: 205px;
+    font-size: var(--font-size-mini);
+    line-height: 99%;
+    font-weight: 200;
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #000;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .man-1-icon {
+    position: absolute;
+    top: 1144px;
+    left: 207px;
+    width: 628.78px;
+    height: 185px;
+    object-fit: cover;
+  }
+  .artificial-intelligence-ai2,
+  .what-is-ai {
+    position: absolute;
+    top: 1351px;
+    left: 205px;
+    line-height: 99%;
+  }
+  .artificial-intelligence-ai2 {
+    top: 1382px;
+    left: 206px;
+    font-size: var(--font-size-mid);
+    color: var(--color-darkslategray-200);
+  }
+  .the-world-is-container {
+    position: absolute;
+    top: 1416px;
+    left: 207px;
+    font-size: var(--font-size-mini);
+    line-height: 99%;
+    font-weight: 200;
+    color: #292d32;
+  }
+  .lule-1-icon {
+    position: absolute;
+    top: 1558px;
+    left: 210px;
+    width: 648.66px;
+    height: 185px;
+    object-fit: cover;
+  }
+  .remote-work1,
+  .working-from-home {
+    position: absolute;
+    top: 1772px;
+    left: 208px;
+    line-height: 99%;
+  }
+  .remote-work1 {
+    top: 1803px;
+    left: 210px;
+    font-size: var(--font-size-mid);
+    color: var(--color-darkslategray-100);
+  }
+  .image-4-1-icon {
+    position: absolute;
+    top: 1968px;
+    left: 210px;
+    width: 650.37px;
+    height: 185px;
+    object-fit: cover;
+  }
+  .web-managers-role {
+    position: absolute;
+    top: 2170px;
+    left: 210px;
+    line-height: 99%;
+  }
+  .career-development2,
+  .with-digital-technology-container {
+    position: absolute;
+    font-size: var(--font-size-mid);
+    line-height: 99%;
+  }
+  .career-development2 {
+    top: 2207px;
+    left: 210px;
+    color: var(--color-darkslategray-100);
+  }
+  .with-digital-technology-container {
+    top: 2648px;
+    left: 208px;
+    color: #989898;
+  }
+  .clock-1-icon {
+    position: absolute;
+    top: 2777px;
+    left: 210px;
+    width: 668.76px;
+    height: 185px;
+    object-fit: cover;
+  }
+  .remote-work2 {
+    position: absolute;
+    top: 3020px;
+    left: 210px;
+    font-size: var(--font-size-mid);
+    line-height: 99%;
+    color: #4c6e78;
+  }
+  .best-practices-to,
+  .do-you-currently-container {
+    position: absolute;
+    top: 2981px;
+    left: 208px;
+    line-height: 99%;
+  }
+  .do-you-currently-container {
+    top: 3056px;
+    left: 204px;
+    font-size: var(--font-size-mid);
+    color: var(--color-darkgray-200);
+  }
+  .boss-1-icon {
+    position: absolute;
+    top: 3146px;
+    left: 204px;
+    width: 667.61px;
+    height: 185px;
+    object-fit: cover;
+  }
+  .working-remotely-offers-container {
+    position: absolute;
+    top: 3427px;
+    left: 204px;
+    font-size: var(--font-size-mid);
+    line-height: 99%;
+    color: #ababab;
+  }
+  .search-1-icon {
+    position: absolute;
+    top: 3538px;
+    left: 208px;
+    width: 671.06px;
+    height: 185px;
+    object-fit: cover;
+  }
+  .best-ways-to,
+  .job-search,
+  .one-of-the-container {
+    position: absolute;
+    top: 3740px;
+    left: 210px;
+    line-height: 99%;
+  }
+  .job-search,
+  .one-of-the-container {
+    top: 3769px;
+    font-size: var(--font-size-mid);
+    color: #63808a;
+  }
+  .one-of-the-container {
+    top: 3803px;
+    color: #bbb;
+  }
+  .macey-1-icon {
+    position: absolute;
+    top: 3948px;
+    left: 212px;
+    width: 672.21px;
+    height: 185px;
+    object-fit: cover;
+  }
+  .logomakr-18flke-23 {
+    position: absolute;
+    top: 4594px;
+    left: 199px;
+    width: 289px;
+    height: 49px;
+  }
+  .group-icon3 {
+    position: relative;
+    width: 40px;
+    height: 40px;
+  }
+  .frame-div {
+    position: absolute;
+    top: 4578px;
+    left: 1090px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-16xl);
+  }
+  .the-leading-job-container3 {
+    position: absolute;
+    top: 4643px;
+    left: 160px;
+    line-height: 99%;
+    font-family: var(--font-ruluko);
+    color: var(--color-white);
+  }
+  .logomakr-2xjodi-2-icon3 {
+    position: absolute;
+    top: 4578px;
+    left: 388px;
+    width: 96px;
+    height: 56px;
+    object-fit: cover;
+  }
+  .punanfokus7 {
+    position: absolute;
+    top: 4594px;
+    left: 160px;
+    font-size: var(--font-size-21xl);
+    line-height: 99%;
+    font-family: var(--font-montaga);
+    color: var(--color-white);
+  }
+  .privacy-policy3 {
+    flex: 1;
+    position: relative;
+    line-height: 99%;
+  }
+  .privacy-policy-parent1 {
+    position: absolute;
+    top: 4668px;
+    left: 818px;
+    width: 462px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-62xl);
+    font-size: var(--font-size-4xl);
+    color: var(--color-white);
+  }
+  .desktop-3 {
+    position: relative;
+    background-color: var(--color-whitesmoke-200);
+    width: 100%;
+    height: 4771px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+  }
+  
