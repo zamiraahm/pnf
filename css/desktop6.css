@@ -1,0 +1,492 @@
+.desktop-6-child {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 720px);
+    background-color: var(--color-white);
+    width: 1440px;
+    height: 129px;
+  }
+  .logomakr-18flke-11 {
+    position: absolute;
+    top: 48px;
+    left: 76px;
+    width: 289px;
+    height: 49px;
+  }
+  .logomakr-2xjodi-1-icon1 {
+    position: absolute;
+    top: 20px;
+    left: 242px;
+    width: 96px;
+    height: 56px;
+    object-fit: cover;
+    cursor: pointer;
+  }
+  .punanfokus2 {
+    top: 34px;
+    left: 16px;
+    font-size: var(--font-size-21xl);
+    font-family: var(--font-montaga);
+    cursor: pointer;
+  }
+  .blog1,
+  .pricing1,
+  .punanfokus2 {
+    position: absolute;
+    line-height: 99%;
+  }
+  .pricing1 {
+    top: 20px;
+    left: 748px;
+    font-size: var(--font-size-11xl);
+    cursor: pointer;
+  }
+  .blog1 {
+    left: 885px;
+  }
+  .blog1,
+  .contact1,
+  .sign-in1 {
+    top: 20px;
+    font-size: var(--font-size-11xl);
+    cursor: pointer;
+  }
+  .contact1 {
+    position: absolute;
+    left: 983px;
+    line-height: 99%;
+  }
+  .sign-in1 {
+    left: 1131px;
+  }
+  .post-a-job1,
+  .post-a-job2,
+  .sign-in1 {
+    position: absolute;
+    line-height: 99%;
+  }
+  .post-a-job1 {
+    top: 20px;
+    left: 1257px;
+    font-size: var(--font-size-11xl);
+  }
+  .post-a-job2 {
+    top: 226px;
+    left: calc(50% - 104px);
+    font-size: var(--font-size-16xl);
+    font-weight: 500;
+  }
+  .desktop-6-item {
+    position: absolute;
+    bottom: 0;
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 314px;
+  }
+  .logomakr-18flke-21 {
+    position: absolute;
+    top: 2559px;
+    left: 199px;
+    width: 289px;
+    height: 49px;
+  }
+  .group-icon1 {
+    position: relative;
+    width: 40px;
+    height: 40px;
+  }
+  .group-group {
+    position: absolute;
+    top: 2543px;
+    left: 1090px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-16xl);
+  }
+  .the-leading-job1 {
+    margin: 0;
+  }
+  .the-leading-job-container1 {
+    position: absolute;
+    top: 2608px;
+    left: 160px;
+    line-height: 99%;
+    font-family: var(--font-ruluko);
+    color: var(--color-white);
+  }
+  .logomakr-2xjodi-2-icon1 {
+    position: absolute;
+    top: 2543px;
+    left: 388px;
+    width: 96px;
+    height: 56px;
+    object-fit: cover;
+  }
+  .punanfokus3 {
+    position: absolute;
+    top: 2559px;
+    left: 160px;
+    font-size: var(--font-size-21xl);
+    line-height: 99%;
+    font-family: var(--font-montaga);
+    color: var(--color-white);
+  }
+  .privacy-policy1 {
+    position: relative;
+    line-height: 99%;
+  }
+  .privacy-policy-group {
+    position: absolute;
+    top: 2633px;
+    left: 818px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-62xl);
+    font-size: var(--font-size-4xl);
+    color: var(--color-white);
+  }
+  .desktop-6-inner {
+    position: absolute;
+    top: 307px;
+    left: 160px;
+    border-radius: var(--br-4xs);
+    background-color: var(--color-white);
+    width: 1120px;
+    height: 2001px;
+  }
+  .desktop-6-child1 {
+    position: absolute;
+    top: 392px;
+    left: calc(50% - 457px);
+    border-radius: var(--br-7xs);
+    background-color: rgba(218, 219, 219, 0.5);
+    border: 1px solid var(--lines);
+    box-sizing: border-box;
+    width: 943px;
+    height: 132px;
+  }
+  .sign-in2 {
+    font-weight: 500;
+  }
+  .if-you-dont {
+    font-weight: 200;
+  }
+  .if-you-dont-have-an-account-y {
+    color: var(--lines);
+  }
+  .have-an-account,
+  .sign-in-if-container {
+    position: absolute;
+    left: 300px;
+    line-height: 99%;
+  }
+  .sign-in-if-container {
+    top: 458px;
+    font-size: var(--font-size-mid);
+    cursor: pointer;
+    color: var(--button);
+  }
+  .have-an-account {
+    top: 421px;
+    font-size: var(--font-size-6xl);
+    font-weight: 600;
+    color: var(--color-gray-100);
+  }
+  .job-category,
+  .job-location,
+  .job-title,
+  .job-type,
+  .your-email {
+    position: absolute;
+    top: 568px;
+    left: 264px;
+    line-height: 99%;
+    font-weight: 500;
+  }
+  .job-category,
+  .job-location,
+  .job-title,
+  .job-type {
+    top: 930px;
+  }
+  .job-category,
+  .job-location,
+  .job-type {
+    top: 1044px;
+  }
+  .job-category,
+  .job-type {
+    top: 1264px;
+    left: 256px;
+  }
+  .job-category {
+    top: 1374px;
+    left: 255px;
+  }
+  .company-name,
+  .description,
+  .how-to-apply,
+  .website {
+    position: absolute;
+    top: 1811px;
+    left: 256px;
+    line-height: 99%;
+    font-weight: 500;
+  }
+  .company-name,
+  .description,
+  .website {
+    top: 2028px;
+  }
+  .description,
+  .website {
+    top: 2031px;
+    left: 745px;
+  }
+  .description {
+    top: 1495px;
+    left: 256px;
+  }
+  .company-details,
+  .job-details,
+  .remote-position-optional {
+    position: absolute;
+    top: 1175px;
+    left: 264px;
+    line-height: 99%;
+    font-weight: 500;
+  }
+  .company-details,
+  .job-details {
+    top: 871.65px;
+    left: 264.06px;
+    font-size: var(--font-size-11xl);
+    transform: rotate(0.27deg);
+    transform-origin: 0 0;
+  }
+  .company-details {
+    top: 1962px;
+    left: 256.14px;
+  }
+  .desktop-6-child2,
+  .desktop-6-child3,
+  .desktop-6-child4 {
+    position: absolute;
+    top: 609px;
+    left: 263px;
+    border-radius: var(--br-10xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--lines);
+    box-sizing: border-box;
+    width: 722px;
+    height: 52px;
+  }
+  .desktop-6-child3,
+  .desktop-6-child4 {
+    top: 743px;
+    width: 325px;
+  }
+  .desktop-6-child4 {
+    left: 682px;
+  }
+  .desktop-6-child10,
+  .desktop-6-child11,
+  .desktop-6-child12,
+  .desktop-6-child5,
+  .desktop-6-child6,
+  .desktop-6-child7,
+  .desktop-6-child8,
+  .desktop-6-child9 {
+    position: absolute;
+    top: 961px;
+    left: 263px;
+    border-radius: var(--br-10xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--lines);
+    box-sizing: border-box;
+    width: 930px;
+    height: 52px;
+  }
+  .desktop-6-child10,
+  .desktop-6-child11,
+  .desktop-6-child12,
+  .desktop-6-child6,
+  .desktop-6-child7,
+  .desktop-6-child8,
+  .desktop-6-child9 {
+    top: 1071px;
+  }
+  .desktop-6-child10,
+  .desktop-6-child11,
+  .desktop-6-child12,
+  .desktop-6-child7,
+  .desktop-6-child8,
+  .desktop-6-child9 {
+    top: 1291px;
+    left: 260px;
+  }
+  .desktop-6-child10,
+  .desktop-6-child11,
+  .desktop-6-child12,
+  .desktop-6-child8,
+  .desktop-6-child9 {
+    top: 1411px;
+    left: 255px;
+  }
+  .desktop-6-child10,
+  .desktop-6-child11,
+  .desktop-6-child12,
+  .desktop-6-child9 {
+    top: 1845px;
+  }
+  .desktop-6-child10,
+  .desktop-6-child11,
+  .desktop-6-child12 {
+    top: 2072px;
+    width: 433px;
+  }
+  .desktop-6-child11,
+  .desktop-6-child12 {
+    top: 2071px;
+    left: 744px;
+  }
+  .desktop-6-child12 {
+    top: 1530px;
+    left: 255px;
+    width: 930px;
+    height: 264px;
+  }
+  .examplessan-francisco-ca,
+  .youyourdomaincom {
+    position: absolute;
+    top: 625px;
+    left: 275px;
+    font-size: var(--font-size-lg);
+    line-height: 99%;
+    font-weight: 100;
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+      linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #c4c5c7;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .examplessan-francisco-ca {
+    top: 1092px;
+    font-size: var(--font-size-mini);
+  }
+  .choose-a-category {
+    top: 1429px;
+    font-size: var(--font-size-mini);
+  }
+  .choose-a-category,
+  .enter-an-email,
+  .enter-the-name,
+  .http {
+    position: absolute;
+    left: 270px;
+    line-height: 99%;
+    font-weight: 100;
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+      linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #c4c5c7;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .enter-an-email {
+    top: 1858px;
+    font-size: var(--font-size-mini);
+  }
+  .enter-the-name,
+  .http {
+    top: 2088px;
+  }
+  .http {
+    top: 2085px;
+    left: 758px;
+  }
+  .enter-an-email1,
+  .password,
+  .verify-password {
+    position: absolute;
+    line-height: 99%;
+    font-weight: 500;
+  }
+  .enter-an-email1 {
+    top: 1911px;
+    left: 256px;
+    font-size: var(--font-size-smi);
+    color: var(--color-darkgray-200);
+  }
+  .password,
+  .verify-password {
+    top: 702px;
+    left: 264px;
+    color: var(--color-gray-300);
+  }
+  .verify-password {
+    top: 709px;
+    left: 683px;
+  }
+  .if-location-is,
+  .passwords-must-be,
+  .select-if-this {
+    position: absolute;
+    top: 803px;
+    left: 264px;
+    font-size: var(--font-size-xs);
+    line-height: 99%;
+    font-weight: 500;
+    color: var(--color-gray-100);
+  }
+  .if-location-is,
+  .select-if-this {
+    top: 1135px;
+    left: 261px;
+  }
+  .select-if-this {
+    top: 1234px;
+    left: 263px;
+  }
+  .desktop-6-child13 {
+    position: absolute;
+    top: 1212px;
+    left: 265px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 20px;
+    height: 14px;
+  }
+  .desktop-6-child14 {
+    position: absolute;
+    top: 2163px;
+    left: 256px;
+    border-radius: var(--br-7xs);
+    background-color: var(--button);
+    width: 199px;
+    height: 58px;
+  }
+  .submit-job {
+    position: absolute;
+    top: 2180px;
+    left: 281px;
+    font-size: var(--font-size-6xl);
+    line-height: 99%;
+    font-weight: 600;
+    color: var(--color-white);
+  }
+  .desktop-6 {
+    position: relative;
+    background-color: var(--color-whitesmoke-200);
+    width: 100%;
+    height: 2729px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+  }
+  
