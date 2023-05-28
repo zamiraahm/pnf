@@ -66,13 +66,6 @@
   .post-a-job4 {
     left: 1257px;
   }
-  .desktop-3-item {
-    position: absolute;
-    bottom: 0;
-    left: calc(50% - 720px);
-    width: 1440px;
-    height: 314px;
-  }
   .blog4 {
     position: absolute;
     top: 257px;
@@ -502,5 +495,12 @@
     font-size: var(--font-size-xl);
     color: var(--color-black);
     font-family: var(--font-poppins);
+  }
+  .desktop-3-item {
+    background-color: gray;
+    padding: 20;
+    color: white;
+    height: 300px;
+    bottom: 0;
   }
   
