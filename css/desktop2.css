@@ -76,9 +76,7 @@
     font-size: 60px;
     font-weight: 500;
   }
-  .great-exposure-for {
-    margin-top: 0px;
-  }
+ 
   .great-exposure-for-container {
     position: absolute;
     top: 398px;
@@ -89,7 +87,7 @@
   }
   .apple-1-icon {
     position: absolute;
-    top: 468px;
+    top: 490px;
     left: 193px;
     width: 49px;
     height: 33px;
@@ -99,7 +97,7 @@
   .tesla-1-icon,
   .twitter-1-icon {
     position: absolute;
-    top: 471px;
+    top: 494px;
     left: 272px;
     width: 40px;
     height: 30px;
@@ -107,13 +105,13 @@
   }
   .ea-1-icon,
   .twitter-1-icon {
-    top: 467px;
+    top: 490px;
     left: 358px;
     width: 42px;
     height: 35px;
   }
   .ea-1-icon {
-    top: 471px;
+    top: 496px;
     left: 440px;
     width: 56px;
     height: 26px;
