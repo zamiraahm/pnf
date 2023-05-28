@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-poppins: Poppins;
+    --font-montaga: Montaga;
+    --font-ruluko: Ruluko;
+    --font-istok-web: "Istok Web";
+  
+    /* font sizes */
+    --font-size-4xl: 23px;
+    --font-size-21xl: 40px;
+    --font-size-xl: 20px;
+    --font-size-11xl: 30px;
+    --font-size-lg: 18px;
+    --font-size-lgi: 19px;
+    --font-size-mini: 15px;
+    --font-size-mid: 17px;
+    --font-size-6xl: 25px;
+    --font-size-base: 16px;
+    --font-size-16xl: 35px;
+    --font-size-smi: 13px;
+    --font-size-xs: 12px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --color-gray-100: #818486;
+    --color-gray-200: #7c7f81;
+    --color-gray-300: #101010;
+    --lines: rgba(0, 0, 0, 0.2);
+    --grey: rgba(16, 13, 13, 0.67);
+    --color-goldenrod: #fac746;
+    --color-silver-100: #c4c5c7;
+    --color-limegreen: #2dbe44;
+    --color-whitesmoke-100: #f3f4f4;
+    --color-whitesmoke-200: #efefef;
+    --color-darkgray-100: #a7a9ac;
+    --color-darkgray-200: #a5a5a5;
+    --color-darkslategray-100: #325965;
+    --color-darkslategray-200: #15414f;
+    --color-skyblue: rgba(129, 188, 206, 0.4);
+    --button: #14d8e4;
+    --color-firebrick: #bf2222;
+    --color-dimgray-100: #4f4f4f;
+    --color-lightskyblue: #96cdff;
+  
+    /* Gaps */
+    --gap-62xl: 81px;
+    --gap-16xl: 35px;
+  
+    /* border radiuses */
+    --br-81xl: 100px;
+    --br-41xl: 60px;
+    --br-3xs: 10px;
+    --br-11xl: 30px;
+    --br-7xs: 6px;
+    --br-4xs: 9px;
+    --br-8xs: 5px;
+    --br-6xs: 7px;
+    --br-10xs: 3px;
+  }
+  
