@@ -6,6 +6,7 @@
     width: 1440px;
     height: 129px;
   }
+  
   .logomakr-18flke-14 {
     position: absolute;
     top: 48px;
@@ -76,7 +77,7 @@
     font-weight: 500;
   }
   .great-exposure-for {
-    margin: 0;
+    margin-top: 0px;
   }
   .great-exposure-for-container {
     position: absolute;
@@ -291,8 +292,8 @@
   }
   .jobs-packages-are-container {
     position: absolute;
-    top: 575px;
-    left: calc(50% + 117px);
+    top: 520px;
+    left: 810px;
     font-size: var(--font-size-smi);
     line-height: 99%;
     white-space: pre-wrap;
@@ -329,13 +330,6 @@
     width: 1440px;
     height: 314px;
   }
-  .logomakr-18flke-24 {
-    position: absolute;
-    top: 927px;
-    left: 199px;
-    width: 289px;
-    height: 49px;
-  }
   .group-icon4 {
     position: relative;
     width: 40px;
@@ -353,29 +347,29 @@
   }
   .the-leading-job-container4 {
     position: absolute;
-    top: 976px;
+    top: 1310px;
     left: 160px;
-    font-size: 29px;
+    font-size: 20px;
     line-height: 99%;
     font-family: var(--font-ruluko);
-    color: var(--color-white);
+    color: white;
   }
   .logomakr-2xjodi-2-icon4 {
     position: absolute;
-    top: 911px;
-    left: 388px;
+    top: 1240px;
+    left: 310px;
     width: 96px;
     height: 56px;
     object-fit: cover;
   }
   .punanfokus9 {
     position: absolute;
-    top: 927px;
+    top: 1250px;
     left: 160px;
-    font-size: var(--font-size-21xl);
+    font-size: 29px;
     line-height: 99%;
-    font-family: var(--font-montaga);
-    color: var(--color-white);
+    font-family: var(--font-ruluko);
+    color: white;
   }
   .privacy-policy4 {
     flex: 1;
@@ -384,7 +378,7 @@
   }
   .privacy-policy-parent2 {
     position: absolute;
-    top: 1033px;
+    top: 1350px;
     left: 703px;
     width: 577px;
     display: flex;
@@ -392,8 +386,8 @@
     align-items: center;
     justify-content: flex-start;
     gap: var(--gap-62xl);
-    font-size: var(--font-size-11xl);
-    color: var(--color-white);
+    font-size: 20px;
+    color: var(--color-black);
   }
   .desktop-2 {
     position: relative;
@@ -406,4 +400,26 @@
     color: var(--color-black);
     font-family: var(--font-poppins);
   }
+  .footer {
+    background-color: gray;
+    padding: 20;
+    color: white;
+    height: 300px;
+    bottom: 0;
+  }
+  .desktop-2{
+    background-color: rgba(182, 176, 176, 0.352);
+  }
   
+  .great-exposure{
+    position: absolute;
+    top: 605px;
+    left: 845px;
+    font-size: var(--font-size-smi);
+    line-height: 99%;
+    white-space: pre-wrap;
+    color: var(--color-gray-100);
+  }
+  .great-exposure1{
+    color: red;
+  }
