@@ -1912,4 +1912,24 @@
     color: var(--color-gray-100);
     font-family: var(--font-poppins);
   }
-  
+  .punanfokus1 {
+    margin-bottom: 200px;
+    margin-left: 11px;
+    color: black;
+  }
+  .the-leading-job-end{
+    margin-left: 11px;
+    margin-bottom: 20px;
+    color: grey;
+  }
+  .footer {
+    background-color: gray;
+    padding: 20px;
+    color: white;
+    height: 300px;
+    bottom: 0;
+  }
+  .container{
+    max-width: 960px;
+    margin: 0 auto;
+  }
