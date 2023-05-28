@@ -33,8 +33,8 @@
     width: 289px;
     height: 49px;
   }
-  .the-leading-job {
-    margin: 0;
+  .the-leading-job222 {
+    margin-left: 80px;
   }
   .the-leading-job-container,
   .trusted-by-companies {
@@ -45,7 +45,7 @@
     display: inline-block;
   }
   .the-leading-job-container {
-    top: 193px;
+    top: 10px;
     left: 344px;
     font-size: 55px;
     white-space: pre-wrap;
@@ -54,7 +54,7 @@
   }
   .trusted-by-companies {
     top: 334px;
-    left: 403px;
+    left: 450px;
     font-size: var(--font-size-xl);
     width: 634px;
     height: 33px;
@@ -69,7 +69,7 @@
   }
   .apple-icon-1,
   .logomakr-2xjodi-1-icon,
-  .twitter,
+  .twitter-bird-icon-1,
   .video-game-ea-icon-1 {
     position: absolute;
     top: 367px;
