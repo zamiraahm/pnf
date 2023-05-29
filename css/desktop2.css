@@ -189,14 +189,14 @@
     left: 549px;
   }
   .startupjobs-feature {
-    top: 667px;
+    top: 650px;
   }
   .designer-news-job,
   .dribbble-job-board,
   .remotiveio-job-board,
   .uxbooth-newsletter {
     position: absolute;
-    top: 706px;
+    top: 709px;
     left: 549px;
     line-height: 99%;
     color: var(--color-gray-200);
