@@ -309,6 +309,18 @@
     width: 7px;
     height: 101px;
   }
+  
+  .desktop-1-child88 {
+    position: absolute;
+    top: 921px;
+    left: 202px;
+    border-radius: var(--br-41xl) 0 0 var(--br-3xs);
+    background-color: var(--color-goldenrod);
+    width: 7px;
+    height: 101px;
+  }
+
+
   .desktop-1-child9 {
     position: absolute;
     top: 784px;
