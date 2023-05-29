@@ -347,8 +347,8 @@
   }
   .full-stack-web-designer {
     top: 806px;
-    font-size: var(--font-size-xl);
     color: var(--color-black);
+    font-size: 18px;
   }
   .senior-backend-engineer {
     top: 684px;
@@ -357,6 +357,7 @@
   }
   .kinsta {
     top: 836px;
+    color: rgba(41, 45, 50, 0.59);
   }  
   .senior-backend-engineer,
   .netlify {
@@ -479,6 +480,7 @@
     top: 975px;
     left: 314px;
     font-weight: 600;
+    color: rgba(41, 45, 50, 0.59);
   }
   .desktop-1-child13 {
     position: absolute;
@@ -503,6 +505,7 @@
     left: 314px;
     line-height: 99%;
     font-weight: 600;
+    color: rgba(41, 45, 50, 0.59);
   }
   .senior-product-designer {
     top: 1087px;
@@ -1487,6 +1490,7 @@
     left: 314px;
     line-height: 99%;
     font-weight: 600;
+    color: rgba(41, 45, 50, 0.59);
   }
   .notion1,
   .webflow,
@@ -1520,6 +1524,7 @@
     left: 312px;
     line-height: 99%;
     font-weight: 600;
+    color: rgba(41, 45, 50, 0.59);
   }
   .brb-ceramic-tile,
   .openai,
@@ -1555,6 +1560,7 @@
     left: 312px;
     line-height: 99%;
     font-weight: 600;
+    color: rgba(41, 45, 50, 0.59);
   }
   .ieee,
   .matter-neuroscience,
@@ -1578,6 +1584,7 @@
     left: 312px;
     line-height: 99%;
     font-weight: 600;
+    color: rgba(41, 45, 50, 0.59);
   }
   .awesome-motive,
   .baton-technologies-inc,
@@ -1601,6 +1608,7 @@
     left: 312px;
     line-height: 99%;
     font-weight: 600;
+    color: rgba(41, 45, 50, 0.59);
   }
   .arnold-porter-container,
   .password,
@@ -1984,4 +1992,7 @@
   .container{
     max-width: 960px;
     margin: 0 auto;
+  }
+  .the-leading-job{
+    color: rgba(41, 45, 50, 0.59);
   }
