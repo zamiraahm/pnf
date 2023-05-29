@@ -278,7 +278,7 @@
   }
   .remote-remote {
     top: 677px;
-    left: 1038px;
+    left: 1048px;
     font-size: var(--font-size-lg);
   }
   .full-time1,
@@ -295,8 +295,8 @@
   }
   .posted-3-months {
     top: 728px;
-    left: 1056px;
-    font-size: var(--font-size-mini);
+    left: 1050px;
+    font-size: 13px;
     font-family: var(--font-istok-web);
     color: rgba(167, 169, 172, 0.68);
   }
@@ -309,18 +309,6 @@
     width: 7px;
     height: 101px;
   }
-  
-  .desktop-1-child88 {
-    position: absolute;
-    top: 921px;
-    left: 202px;
-    border-radius: var(--br-41xl) 0 0 var(--br-3xs);
-    background-color: var(--color-goldenrod);
-    width: 7px;
-    height: 101px;
-  }
-
-
   .desktop-1-child9 {
     position: absolute;
     top: 784px;
@@ -348,24 +336,8 @@
     height: 59px;
     object-fit: cover;
   }
-  .desktop-1-child10 {
-    position: absolute;
-    top: 786px;
-    left: 202px;
-    border-radius: var(--br-41xl) 0 0 var(--br-3xs);
-    background-color: var(--color-goldenrod);
-    width: 6px;
-    height: 99px;
-  }
-  .desktop-11-child100{
-    position: absolute;
-    top: 786px;
-    left: 202px;
-    border-radius: var(--br-41xl) 0 0 var(--br-3xs);
-    background-color: var(--color-goldenrod);
-    width: 6px;
-    height: 99px;
-  }
+ 
+
   .full-stack-web-designer,
   .kinsta {
     position: absolute;
@@ -379,8 +351,8 @@
     color: var(--color-black);
   }
   .senior-backend-engineer {
-    top: 706px;
-    font-size: var(--font-size-xl);
+    top: 684px;
+    font-size: var(--font-size-lg);
     color: var(--color-black);
   }
   .kinsta {
@@ -394,7 +366,7 @@
     font-weight: 600;
   }
   .netlify {
-    top: 736px;
+    top: 711px;
   }  
   .remote-remote1 {
     top: 804px;
@@ -409,7 +381,7 @@
   }
   .full-time2 {
     top: 827px;
-    left: 1111px;
+    left: 1104px;
     font-weight: 600;
     color: var(--color-limegreen);
   }
@@ -429,9 +401,10 @@
 
   .posted-3-months1 {
     top: 851px;
-    left: 1047px;
-    font-size: var(--font-size-mini);
-    color: var(--color-silver-100);
+    left: 1050px;
+    font-size: 13px;
+    font-family: var(--font-istok-web);
+    color: rgba(167, 169, 172, 0.68);
   }
   .desktop-1-child11 {
     position: absolute;
@@ -442,9 +415,10 @@
     width: 1037px;
     height: 103px;
   }
+
   .kinsta-2-icon {
     position: absolute;
-    top: 931px;
+    top: 942px;
     left: 229px;
     border-radius: var(--br-81xl);
     width: 59px;
@@ -485,7 +459,7 @@
   }
   .full-time3 {
     top: 965px;
-    left: 1119px;
+    left: 1110px;
     font-weight: 600;
     color: var(--color-limegreen);
   }
@@ -514,15 +488,6 @@
     background-color: var(--color-whitesmoke-100);
     width: 1037px;
     height: 103px;
-  }
-  .desktop-1-child14 {
-    position: absolute;
-    top: 1060px;
-    left: 202px;
-    border-radius: var(--br-41xl) 0 0 var(--br-3xs);
-    background-color: var(--color-goldenrod);
-    width: 7px;
-    height: 99px;
   }
   .shopify-1-icon {
     position: absolute;
@@ -579,6 +544,7 @@
     width: 1037px;
     height: 103px;
   }
+  
   .desktop-1-child16 {
     top: 1332px;
   }
