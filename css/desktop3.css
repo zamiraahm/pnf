@@ -36,6 +36,10 @@
     font-family: var(--font-montaga);
     cursor: pointer;
   }
+  .punanfokus6 a {
+    text-decoration: none;
+    color: black;
+  }
   .blog3,
   .pricing3 {
     top: 20px;

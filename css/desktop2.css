@@ -30,6 +30,10 @@
     font-family: var(--font-montaga);
     cursor: pointer;
   }
+  .punanfokus8 a {
+    text-decoration: none;
+    color: black;
+  }
   .blog5,
   .pricing4,
   .punanfokus8 {
