@@ -295,8 +295,8 @@
   }
   .posted-3-months {
     top: 728px;
-    left: 1029px;
-    font-size: var(--font-size-mini);
+    left: 1050px;
+    font-size: 13px;
     font-family: var(--font-istok-web);
     color: rgba(167, 169, 172, 0.68);
   }
@@ -381,7 +381,7 @@
   }
   .full-time2 {
     top: 827px;
-    left: 1111px;
+    left: 1104px;
     font-weight: 600;
     color: var(--color-limegreen);
   }
@@ -401,9 +401,10 @@
 
   .posted-3-months1 {
     top: 851px;
-    left: 1047px;
-    font-size: var(--font-size-mini);
-    color: var(--color-silver-100);
+    left: 1050px;
+    font-size: 13px;
+    font-family: var(--font-istok-web);
+    color: rgba(167, 169, 172, 0.68);
   }
   .desktop-1-child11 {
     position: absolute;
@@ -417,7 +418,7 @@
 
   .kinsta-2-icon {
     position: absolute;
-    top: 931px;
+    top: 942px;
     left: 229px;
     border-radius: var(--br-81xl);
     width: 59px;
@@ -458,7 +459,7 @@
   }
   .full-time3 {
     top: 965px;
-    left: 1119px;
+    left: 1110px;
     font-weight: 600;
     color: var(--color-limegreen);
   }
