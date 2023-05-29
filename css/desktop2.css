@@ -331,17 +331,6 @@
     height: 314px;
   }
   .group-parent1 {
-    /*position: absolute;
-    top: 969px;
-    left: 1090px;
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    justify-content: flex-start;
-    gap: var(--gap-16xl);
-    width: 40px;
-    height: 40px;
-    */
     top: 1290px;
     left: 1010px;
     display: flex;
@@ -357,7 +346,7 @@
   
   .the-leading-job-container4 {
     position: absolute;
-    top: 1310px;
+    top: 1280px;
     left: 160px;
     font-size: 20px;
     line-height: 99%;
