@@ -725,13 +725,13 @@
     top: 2040px;
   }
   .san-francisco-california-container {
-    top: 2175px;
-    left: 834px;
+    top: 2120px;
+    left: 887px;
     white-space: pre-wrap;
   }
   .san-francisco-california-container1 {
-    top: 2310px;
-    left: 834px;
+    top: 2257px;
+    left: 887px;
     white-space: pre-wrap;
   }
   .san-francisco-california-container1,
@@ -742,8 +742,8 @@
     line-height: 99%;
   }
   .san-francisco-california-container2 {
-    top: 2445px;
-    left: 834px;
+    top: 2390px;
+    left: 887px;
     white-space: pre-wrap;
   }
   .utah-remote {
@@ -1372,11 +1372,13 @@
     line-height: 99%;
     font-weight: 600;
     color: var(--color-black);
+    font-size: 18px;
   }
   .senior-software-engineer-container,
   .staff-frontend-engineer-container {
-    top: 1635px;
+    top: 1620px;
     left: 312px;
+    font-size: 18px;
   }
   .staff-frontend-engineer-container {
     top: 1772px;
@@ -1403,7 +1405,7 @@
   .office-clerk,
   .software-engineer-full-stack-container {
     position: absolute;
-    top: 2314px;
+    top: 2299px;
     left: 312px;
     line-height: 99%;
     font-weight: 600;
@@ -2004,7 +2006,7 @@
     margin: 0 auto;
   }
   .the-leading-job{
-    top: 800px;
+    top: 1800px;
   }
   .product-designer{
     font-size: 18px;
