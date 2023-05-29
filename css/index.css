@@ -445,7 +445,7 @@
     position: absolute;
     top: 945px;
     left: 314px;
-    font-size: var(--font-size-xl);
+    font-size: 18px;
     line-height: 99%;
     font-weight: 600;
     color: var(--color-black);
@@ -513,7 +513,7 @@
   }
   .americas {
     top: 1078px;
-    left: 1122px;
+    left: 1102px;
     font-size: var(--font-size-lg);
   }
   .americas,
@@ -524,7 +524,7 @@
   }
   .full-time4 {
     top: 1103px;
-    left: 1119px;
+    left: 1109px;
     font-weight: 600;
     color: var(--color-limegreen);
   }
@@ -843,7 +843,7 @@
   }
   .full-time5,
   .full-time6 {
-    left: 1118px;
+    left: 1112px;
     font-weight: 600;
     color: var(--color-limegreen);
   }
@@ -1619,7 +1619,7 @@
   .san-francisco-california3 {
     position: absolute;
     top: 1220px;
-    left: 1041px;
+    left: 1024px;
     font-size: var(--font-size-lg);
     line-height: 99%;
   }
