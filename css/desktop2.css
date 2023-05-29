@@ -330,13 +330,8 @@
     width: 1440px;
     height: 314px;
   }
-  .group-icon4 {
-    position: relative;
-    width: 40px;
-    height: 40px;
-  }
   .group-parent1 {
-    position: absolute;
+    /*position: absolute;
     top: 969px;
     left: 1090px;
     display: flex;
@@ -344,7 +339,22 @@
     align-items: flex-start;
     justify-content: flex-start;
     gap: var(--gap-16xl);
+    width: 40px;
+    height: 40px;
+    */
+    top: 1290px;
+    left: 1010px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-16xl);
+    position: absolute;
   }
+  .group-icon4{
+    width: 40px;
+  }
+  
   .the-leading-job-container4 {
     position: absolute;
     top: 1310px;
