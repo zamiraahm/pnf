@@ -309,18 +309,6 @@
     width: 7px;
     height: 101px;
   }
-  
-  .desktop-1-child88 {
-    position: absolute;
-    top: 921px;
-    left: 202px;
-    border-radius: var(--br-41xl) 0 0 var(--br-3xs);
-    background-color: var(--color-goldenrod);
-    width: 7px;
-    height: 101px;
-  }
-
-
   .desktop-1-child9 {
     position: absolute;
     top: 784px;
@@ -348,24 +336,8 @@
     height: 59px;
     object-fit: cover;
   }
-  .desktop-1-child10 {
-    position: absolute;
-    top: 786px;
-    left: 202px;
-    border-radius: var(--br-41xl) 0 0 var(--br-3xs);
-    background-color: var(--color-goldenrod);
-    width: 6px;
-    height: 99px;
-  }
-  .desktop-11-child100{
-    position: absolute;
-    top: 786px;
-    left: 202px;
-    border-radius: var(--br-41xl) 0 0 var(--br-3xs);
-    background-color: var(--color-goldenrod);
-    width: 6px;
-    height: 99px;
-  }
+ 
+
   .full-stack-web-designer,
   .kinsta {
     position: absolute;
@@ -442,6 +414,7 @@
     width: 1037px;
     height: 103px;
   }
+
   .kinsta-2-icon {
     position: absolute;
     top: 931px;
@@ -515,15 +488,6 @@
     width: 1037px;
     height: 103px;
   }
-  .desktop-1-child14 {
-    position: absolute;
-    top: 1060px;
-    left: 202px;
-    border-radius: var(--br-41xl) 0 0 var(--br-3xs);
-    background-color: var(--color-goldenrod);
-    width: 7px;
-    height: 99px;
-  }
   .shopify-1-icon {
     position: absolute;
     top: 1083px;
@@ -579,6 +543,7 @@
     width: 1037px;
     height: 103px;
   }
+  
   .desktop-1-child16 {
     top: 1332px;
   }
