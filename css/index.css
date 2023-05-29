@@ -278,7 +278,7 @@
   }
   .remote-remote {
     top: 677px;
-    left: 1038px;
+    left: 1048px;
     font-size: var(--font-size-lg);
   }
   .full-time1,
@@ -295,7 +295,7 @@
   }
   .posted-3-months {
     top: 728px;
-    left: 1056px;
+    left: 1029px;
     font-size: var(--font-size-mini);
     font-family: var(--font-istok-web);
     color: rgba(167, 169, 172, 0.68);
@@ -351,8 +351,8 @@
     color: var(--color-black);
   }
   .senior-backend-engineer {
-    top: 706px;
-    font-size: var(--font-size-xl);
+    top: 684px;
+    font-size: var(--font-size-lg);
     color: var(--color-black);
   }
   .kinsta {
@@ -366,7 +366,7 @@
     font-weight: 600;
   }
   .netlify {
-    top: 736px;
+    top: 711px;
   }  
   .remote-remote1 {
     top: 804px;
