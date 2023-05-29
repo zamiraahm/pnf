@@ -98,9 +98,6 @@
     font-size: var(--font-size-mid);
     color: #6d8891;
   }
-  .are-you-a {
-    margin:0;
-  }
   .are-you-a-container {
     position: absolute;
     top: 4222px;
@@ -446,11 +443,13 @@
   }
   .the-leading-job-container3 {
     position: relative;
-    top: 4700px;
+    margin-bottom: 0px;
+    margin-top: 4650px;
     left: 160px;
+    font-size: 20px;
     line-height: 99%;
     font-family: var(--font-ruluko);
-    color: var(--color-white);
+    color: white;
   }
   .logomakr-2xjodi-2-icon3 {
     position: absolute;
