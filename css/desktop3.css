@@ -454,20 +454,20 @@
   }
   .logomakr-2xjodi-2-icon3 {
     position: absolute;
-    top: 4700px;
-    left: 388px;
+    top: 4575px;
+    left: 309px;
     width: 96px;
     height: 56px;
     object-fit: cover;
   }
   .punanfokus7 {
     position: absolute;
-    top: 4908px;
+    top: 4600px;
     left: 160px;
     font-size: 29px;
     line-height: 99%;
     font-family: var(--font-ruluko);
-    color: var(--color-white);
+    color:white;
   }
   .privacy-policy3 {
     flex: 1;
