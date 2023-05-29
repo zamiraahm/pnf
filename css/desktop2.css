@@ -426,3 +426,21 @@
   .desktop-2{
     background-color: #EFEFEF;;
   }
+  .great-exposure-for1{
+    position: absolute;
+    top: 579px;
+    left: 875px;
+    font-size: var(--font-size-smi);
+    line-height: 99%;
+    white-space: pre-wrap;
+    color: var(--color-darkgray-100);
+  }
+  .great-exposure-for2{
+    position: absolute;
+    top: 610px;
+    left: 850px;
+    font-size: var(--font-size-smi);
+    line-height: 99%;
+    white-space: pre-wrap;
+    color: var(--color-darkgray-100);
+  }
