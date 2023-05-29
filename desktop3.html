@@ -38,7 +38,7 @@
       <div class="blog3">Blog</div>
       <div class="contact3" id="contactText">Contact</div>
       <div class="sign-in4" id="signInText">Sign In</div>
-      <div class="post-a-job4">Post a job</div>
+      <div class="post-a-job4" id="postAJob">Post a job</div>
       <div class="desktop-3-item"></div>
 
       <div class="blog4">Blog</div>
@@ -399,6 +399,12 @@
       if (signInText) {
         signInText.addEventListener("click", function (e) {
           window.location.href = "./desktop5.html";
+        });
+      }
+      var postAJob = document.getElementById("postAJob");
+      if (postAJob) {
+        postAJob.addEventListener("click", function (e) {
+          window.location.href = "./desktop6.html";
         });
       }
       </script>

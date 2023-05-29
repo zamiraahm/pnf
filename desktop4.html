@@ -34,11 +34,11 @@
       />
 
       <div class="punanfokus" id="punaNFokusText">PunaNFokus</div>
-      <div class="pricing">Pricing</div>
+      <div class="pricing" id="pricingText">Pricing</div>
       <div class="blog" id="blogText">Blog</div>
       <div class="contact">Contact</div>
       <div class="sign-in" id="signInText">Sign In</div>
-      <div class="post-a-job">Post a job</div>
+      <div class="post-a-job" id="postAJob">Post a job</div>
       <div class="contact-punanfokus-jobs">Contact PunaNfokus Jobs</div>
       <div class="desktop-4-item"></div>
 
@@ -131,6 +131,12 @@
           window.location.href = "/";
         });
       }
+      var pricingText = document.getElementById("pricingText");
+      if (pricingText) {
+        pricingText.addEventListener("click", function (e) {
+          window.location.href = "./desktop2.html";
+        });
+      }
       
       var blogText = document.getElementById("blogText");
       if (blogText) {
@@ -143,6 +149,13 @@
       if (signInText) {
         signInText.addEventListener("click", function (e) {
           window.location.href = "./desktop5.html";
+        });
+      }
+
+      var postAJob = document.getElementById("postAJob");
+      if (postAJob) {
+        postAJob.addEventListener("click", function (e) {
+          window.location.href = "./desktop6.html";
         });
       }
       </script>

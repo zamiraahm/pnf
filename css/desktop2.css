@@ -40,6 +40,7 @@
     top: 20px;
     left: 748px;
     font-size: var(--font-size-11xl);
+    cursor: pointer;
   }
   .blog5 {
     left: 885px;
@@ -64,6 +65,7 @@
   .sign-in5 {
     position: absolute;
     line-height: 99%;
+    cursor: pointer;
   }
   .post-a-job5 {
     top: 20px;

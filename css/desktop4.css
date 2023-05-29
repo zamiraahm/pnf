@@ -27,6 +27,7 @@
   .punanfokus {
     position: absolute;
     line-height: 99%;
+    cursor: pointer;
   }
   .punanfokus {
     top: 34px;
@@ -47,6 +48,7 @@
   }
   .contact {
     left: 983px;
+    cursor: pointer;
   }
   .contact,
   .post-a-job,
@@ -55,6 +57,7 @@
     top: 20px;
     font-size: var(--font-size-11xl);
     line-height: 99%;
+    cursor: pointer;
   }
   .sign-in {
     left: 1131px;
