@@ -97,7 +97,7 @@
     color: #6d8891;
   }
   .are-you-a {
-    margin: 0;
+    margin:0;
   }
   .are-you-a-container {
     position: absolute;
@@ -443,8 +443,8 @@
     gap: var(--gap-16xl);
   }
   .the-leading-job-container3 {
-    position: absolute;
-    top: 4643px;
+    position: relative;
+    top: 4700px;
     left: 160px;
     line-height: 99%;
     font-family: var(--font-ruluko);
@@ -452,7 +452,7 @@
   }
   .logomakr-2xjodi-2-icon3 {
     position: absolute;
-    top: 4578px;
+    top: 4700px;
     left: 388px;
     width: 96px;
     height: 56px;
@@ -460,11 +460,11 @@
   }
   .punanfokus7 {
     position: absolute;
-    top: 4594px;
+    top: 4908px;
     left: 160px;
-    font-size: var(--font-size-21xl);
+    font-size: 29px;
     line-height: 99%;
-    font-family: var(--font-montaga);
+    font-family: var(--font-ruluko);
     color: var(--color-white);
   }
   .privacy-policy3 {
@@ -496,11 +496,20 @@
     color: var(--color-black);
     font-family: var(--font-poppins);
   }
-  .desktop-3-item {
-    background-color: gray;
+  /*.desktop-3-item {
+    margin-top: 50px;
     padding: 20;
     color: white;
     height: 300px;
     bottom: 0;
+    background-color: gray;
+  }*/
+ 
+  .desktop-4-item {
+    position: absolute;
+    bottom: 0;
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 314px;
+    background-color: #818486;
   }
-  
