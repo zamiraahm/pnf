@@ -1674,6 +1674,15 @@
     height: 53px;
     object-fit: cover;
   }
+  .webflow-0-icon{
+    position: absolute;
+    top: 1216px;
+    left: 229px;
+    border-radius: var(--br-81xl);
+    width: 53px;
+    height: 53px;
+    object-fit: cover;
+  }
   .stickermule-1-icon,
   .stickermule-2-icon,
   .webflow-2-icon,
