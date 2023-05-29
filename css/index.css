@@ -1392,13 +1392,15 @@
     line-height: 99%;
     font-weight: 600;
     color: var(--color-black);
+    font-size: 18px;
   }
   .software-engineer-frontend,
   .software-engineer-product-container {
     top: 2044px;
   }
   .software-engineer-product-container {
-    top: 2179px;
+    top: 2161px;
+    font-size: 18px;
   }
   .government-representative-2,
   .it-engineer-container,
