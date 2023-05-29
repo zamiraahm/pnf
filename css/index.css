@@ -352,7 +352,7 @@
   }
   .senior-backend-engineer {
     top: 684px;
-    font-size: var(--font-size-lg);
+    font-size: 18px;
     color: var(--color-black);
   }
   .kinsta {
@@ -510,6 +510,7 @@
   .senior-product-designer {
     top: 1087px;
     color: var(--color-black);
+    font-size: 18px;
   }
   .shopify {
     top: 1116px;
@@ -832,10 +833,14 @@
     top: 1490px;
     left: 1046px;
   }
+  .san-francisco-hq-container{
+    top: 1560px;
+    left: 760px;
+  }
   .san-francisco-hq-container,
   .san-francisco-hq-container1 {
     position: absolute;
-    top: 1622px;
+  
     right: 230px;
     font-size: var(--font-size-lg);
     line-height: 99%;
@@ -866,17 +871,17 @@
   }
   .full-time7 {
     top: 1514px;
-    left: 1119px;
+    left: 1110px;
     font-weight: 600;
     color: var(--color-limegreen);
   }
   .full-time8 {
-    top: 1663px;
+    top: 1657px;
   }
   .full-time10,
   .full-time8,
   .full-time9 {
-    left: 1118px;
+    left: 1110px;
     font-weight: 600;
     color: var(--color-limegreen);
   }
@@ -1033,7 +1038,7 @@
   .posted-3-months8,
   .posted-3-months9 {
     position: absolute;
-    top: 1411px;
+    top: 1400px;
     left: 1050px;
     font-size: var(--font-size-mini);
     line-height: 99%;
@@ -1050,6 +1055,7 @@
     top: 1539px;
     left: 1051px;
   }
+ 
   .posted-3-months10,
   .posted-3-months7,
   .posted-3-months8,
@@ -1352,6 +1358,10 @@
   }
   .ai-research-designer {
     top: 1370px;
+    font-size: 18px;
+  }
+  .lead-product-manager{
+    font-size: 18px;
   }
   .lead-product-manager,
   .senior-software-engineer-container,
@@ -1994,5 +2004,9 @@
     margin: 0 auto;
   }
   .the-leading-job{
-    color: rgba(41, 45, 50, 0.59);
+    top: 800px;
   }
+  .product-designer{
+    font-size: 18px;
+  }
+ 
