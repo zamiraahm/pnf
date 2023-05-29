@@ -519,3 +519,35 @@
     height: 314px;
     background-color: #818486;
   }
+
+  
+  .footer .punanfokus7{
+    color: black;
+    
+    font-size: var(--font-size-21xl);
+    font-family: var(--font-montaga);
+    
+  }
+  .footer .privacy-policy3{
+    flex: 1;
+    position: relative;
+    color: white;
+    display: flex;
+    font-family: var(--font-montaga);
+  }
+  
+
+.footer .privacy-policyy{
+  position: relative;
+  color: white;
+  display: flex;
+  font-family: var(--font-montaga);
+  display: flex;
+}
+.footer .logomakr-2xjodi-2-icon3{
+  position: absolute;
+  left: 380px;
+  width: 96px;
+  height: 56px;
+  object-fit: cover;
+}

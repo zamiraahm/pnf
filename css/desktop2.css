@@ -410,6 +410,28 @@
     height: 300px;
     bottom: 0;
   }
+  .footer .punanfokus9{
+    color: black;
+    
+    font-size: var(--font-size-21xl);
+    font-family: var(--font-montaga);
+    
+  }
+  .footer .privacy-policy4{
+    color: white;
+    font-size: 24px;
+
+  }
+ .footer  img {
+  position: absolute;
+  left: 380px;
+  width: 96px;
+  height: 56px;
+  object-fit: cover;
+} 
+ .group-parent1 img{
+  margin-left: 20px;
+}
   .desktop-2{
     background-color: rgba(182, 176, 176, 0.352);
   }
