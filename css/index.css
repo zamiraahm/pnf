@@ -1917,7 +1917,7 @@
   }
   .group-parent {
     position: absolute;
-    top: 4482px;
+    top: 4882px;
     left: 1077px;
     display: flex;
     flex-direction: row;
@@ -1927,29 +1927,29 @@
   }
   .the-leading-job-container1 {
     position: absolute;
-    top: 4547px;
+    top: 4857px;
     left: 147px;
     font-size: var(--font-size-xl);
     line-height: 99%;
     font-family: var(--font-ruluko);
-    color: var(--color-white);
+    color: black;
   }
   .logomakr-2xjodi-2-icon {
     position: absolute;
-    top: 4482px;
-    left: 375px;
+    top: 4808px;
+    left: 378px;
     width: 96px;
     height: 56px;
     object-fit: cover;
   }
   .punanfokus1 {
     position: absolute;
-    top: 4498px;
+    top: 4828px;
     left: 147px;
     font-size: var(--font-size-21xl);
     line-height: 99%;
     font-family: var(--font-montaga);
-    color: var(--color-white);
+    color: white;
   }
   .privacy-policy {
     flex: 1;
@@ -1958,7 +1958,7 @@
   }
   .privacy-policy-parent {
     position: absolute;
-    top: 4572px;
+    top: 4942px;
     left: 805px;
     width: 462px;
     display: flex;
@@ -1988,7 +1988,7 @@
   .the-leading-job-end{
     margin-left: 11px;
     margin-bottom: 100px;
-    color: grey;
+    color: white;
   }
   .footer {
     background-color: gray;
