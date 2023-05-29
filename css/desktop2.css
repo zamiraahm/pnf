@@ -87,7 +87,7 @@
   }
   .apple-1-icon {
     position: absolute;
-    top: 490px;
+    top: 500px;
     left: 193px;
     width: 49px;
     height: 33px;
@@ -97,7 +97,7 @@
   .tesla-1-icon,
   .twitter-1-icon {
     position: absolute;
-    top: 4px;
+    top: 503px;
     left: 272px;
     width: 40px;
     height: 30px;
@@ -105,13 +105,13 @@
   }
   .ea-1-icon,
   .twitter-1-icon {
-    top: 490px;
+    top: 500px;
     left: 358px;
     width: 42px;
     height: 35px;
   }
   .ea-1-icon {
-    top: 471px;
+    top: 505px;
     left: 440px;
     width: 56px;
     height: 26px;
@@ -354,7 +354,7 @@
   }
   .logomakr-2xjodi-2-icon4 {
     position: absolute;
-    top: 1240px;
+    top: 1223px;
     left: 310px;
     width: 96px;
     height: 56px;
@@ -420,4 +420,7 @@
   }
   .great-exposure1{
     color: red;
+  }
+  .desktop-2{
+    background-color: #EFEFEF;;
   }
