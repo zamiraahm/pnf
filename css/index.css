@@ -747,8 +747,8 @@
     white-space: pre-wrap;
   }
   .utah-remote {
-    top: 2577px;
-    left: 1074px;
+    top: 2561px;
+    left: 1070px;
   }
   .anywhere-remote,
   .anywhere-remote1,
@@ -758,7 +758,7 @@
   .trenton-nj1 {
     position: absolute;
     top: 2708px;
-    left: 1108px;
+    left: 1090px;
     font-size: var(--font-size-lg);
     line-height: 99%;
   }
@@ -847,7 +847,8 @@
     white-space: pre-wrap;
   }
   .san-francisco-hq-container1 {
-    top: 1759px;
+    top: 1700px;
+    left: 755px;
   }
   .full-time5,
   .full-time6 {
@@ -901,7 +902,7 @@
   }
   .full-time11 {
     top: 2066px;
-    left: 1118px;
+    left: 1110px;
     font-weight: 600;
     color: var(--color-limegreen);
   }
@@ -911,7 +912,7 @@
   .full-time12,
   .full-time13,
   .full-time14 {
-    left: 1118px;
+    left: 1110px;
     font-weight: 600;
     color: var(--color-limegreen);
   }
@@ -931,7 +932,7 @@
   }
   .full-time15 {
     top: 2603px;
-    left: 1118px;
+    left: 1115px;
     font-weight: 600;
     color: var(--color-limegreen);
   }
@@ -961,7 +962,7 @@
   }
   .full-time19 {
     top: 3139px;
-    left: 1119px;
+    left: 1111px;
     font-weight: 600;
     color: var(--color-limegreen);
   }
@@ -1381,7 +1382,8 @@
     font-size: 18px;
   }
   .staff-frontend-engineer-container {
-    top: 1772px;
+    top: 1753px;
+    font-size: 18px;
   }
   .software-engineer-backend,
   .software-engineer-frontend,
@@ -1416,7 +1418,8 @@
   .government-representative-2,
   .office-clerk,
   .software-engineer-full-stack-container {
-    top: 2449px;
+    top: 2436px;
+    font-size: 18px;
   }
   .government-representative-2,
   .office-clerk {
@@ -1434,14 +1437,16 @@
     line-height: 99%;
     font-weight: 600;
     color: var(--color-black);
+    font-size: 18px;
   }
   .lead-cloud-engineer-container,
   .mobile-product-designer-container {
-    top: 2985px;
+    top: 2965px;
   }
   .mobile-product-designer-container {
-    top: 3120px;
+    top: 3099px;
     left: 313px;
+    font-size: 18px;
   }
   .fullstack-engineer,
   .senior-full-stack,
@@ -1586,7 +1591,7 @@
     top: 3017px;
   }
   .matter-neuroscience {
-    top: 3152px;
+    top: 3147px;
     left: 313px;
   }
   .awesome-motive,
