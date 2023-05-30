@@ -2008,10 +2008,12 @@
     height: 300px;
     bottom: 0;
   }
+  
   .container{
     max-width: 960px;
     margin: 0 auto;
   }
+  
   .the-leading-job{
     top: 1800px;
   }
